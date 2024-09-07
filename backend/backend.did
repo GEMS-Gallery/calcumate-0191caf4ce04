@@ -1,0 +1,6 @@
+service : {
+  add: (float64, float64) -> (float64);
+  divide: (float64, float64) -> (opt float64);
+  multiply: (float64, float64) -> (float64);
+  subtract: (float64, float64) -> (float64);
+}
